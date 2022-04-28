@@ -17,7 +17,7 @@ van waar, wanneer en natuurlijk hoeveel energie (kWh) je laadt. Dus hoe weet je 
 De Green Caravan heeft een datamodel ontwikkeld waarin energie-opwekking en -handel door heel Europa wordt gecombineerd met energie-mixen van energie-providers. Zo kun je tot op de laadpaal nauwkeurig opvragen hoeveel CO2, zon, wind, hydro, nucleair, kolen, gas en nog meer in een laadsessie zit. Green Caravan heeft niet alleen historische data, maar ook voorspellingen voor de nabije toekomst.
 
 ## Opdrachtgever
-De Voorhoede
+Green Caravan  
 Product Owner: Frank Warnaar
 
 ## Design challenge

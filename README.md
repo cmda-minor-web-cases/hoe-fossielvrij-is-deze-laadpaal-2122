@@ -18,7 +18,7 @@ De Green Caravan heeft een datamodel ontwikkeld waarin energie-opwekking en -han
 
 ## Opdrachtgever
 Green Caravan  
-Product Owner: Frank Warnaar
+Product Owners: Tom Visser & Victor Zumpolle
 
 ## Design challenge
 Ontwerp en ontwikkel een web applicatie die inzicht geeft in het gebruik van fossiele brandstoffen voor laadsessies van elektrische auto's
@@ -53,7 +53,7 @@ dat moment berekenen. We dagen je uit dit te realiseren en voor de gebruiker inz
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Slack vragen gesteld worden.
 
 Als agile studententeam krijgen jullie begeleiding van:  
-* [Frank Warnaar](https://www.linkedin.com/in/frank-warnaar-2a517a115/), oud-CMD’er en nu front-end tech lead bij De Voorhoede. Frank heeft al eerder een meesterproef begeleid, heeft veel technische kennis in huis en heeft als prototyper gewerkt aan onder andere projecten bij startup incubator Aimforthemoon. Hij zal jullie de nodige technische begeleiding geven. En als nodig staan ook de 20 front-end collega’s van Frank voor jullie klaar.
+* [Victor Zumpolle](...), oud-CMD’er en nu front-end tech lead bij De Voorhoede. Victor heeft al eerder een meesterproef begeleid, heeft veel technische kennis in huis en heeft als prototyper gewerkt aan onder andere projecten bij startup incubator Aimforthemoon. Hij zal jullie de nodige technische begeleiding geven. En als nodig staan ook de 20 front-end collega’s van Frank voor jullie klaar.
 * [Tom Visser](tom.visser@gcrvn.com), product owner voor de software producten van Green Caravan. Tom stuurt nu het team aan dat de websites (greencrvn.com, www.co2smartcharging.com en
 app.co2smartcharging.com) en de native apps (for Android en ioS) ontwikkelt.
 

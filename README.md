@@ -5,7 +5,7 @@
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
   * [Opdrachtgever](#opdrachtgever)
-  * [Design challenge](#design-challege)
+  * [Design challenge](#design-challenge)
   * [Data](#data)
   * [Planning](#planning)
   * [Licentie](#licentie)
@@ -53,11 +53,11 @@ dat moment berekenen. We dagen je uit dit te realiseren en voor de gebruiker inz
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Slack vragen gesteld worden.
 
 Als agile studententeam krijgen jullie begeleiding van:  
-* [Victor Zumpolle](...), oud-CMD’er en nu front-ender bij De Voorhoede. 
+* [Victor Zumpolle](https://www.linkedin.com/in/victor-zumpolle-52260b113), oud-CMD’er en nu front-ender bij De Voorhoede. Victor heeft 4 jaar geleden zelf de meesterproef gedaan en heeft gewerkt voor veel verschillende grote en kleine projecten binnen De Voorhoede. Hij zal jullie de nodige technische begeleiding geven. En als nodig staan ook de 20 front-end collega’s van Victor voor jullie klaar.
 * [Tom Visser](tom.visser@gcrvn.com), product owner voor de software producten van Green Caravan. Tom stuurt nu het team aan dat de websites (greencrvn.com, www.co2smartcharging.com en
 app.co2smartcharging.com) en de native apps (for Android en ioS) ontwikkelt.
 
-De kickoff is maandag 23 mei om ... te ...
+De kickoff is maandag 23 mei om n.t.b te n.t.b.
 
 ## Licentie
 

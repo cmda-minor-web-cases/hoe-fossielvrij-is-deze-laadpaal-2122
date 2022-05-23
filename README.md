@@ -57,7 +57,7 @@ Als agile studententeam krijgen jullie begeleiding van:
 * [Tom Visser](tom.visser@gcrvn.com), product owner voor de software producten van Green Caravan. Tom stuurt nu het team aan dat de websites (greencrvn.com, www.co2smartcharging.com en
 app.co2smartcharging.com) en de native apps (for Android en ioS) ontwikkelt.
 
-De kickoff is maandag 23 mei om n.t.b te n.t.b.
+De kickoff is maandag 23 mei om 14:00 uur te Voorhoede kantoor Amsterdam.
 
 ## Licentie
 

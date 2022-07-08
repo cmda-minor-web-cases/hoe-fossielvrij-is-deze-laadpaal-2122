@@ -58,9 +58,3 @@ Als agile studententeam krijgen jullie begeleiding van:
 app.co2smartcharging.com) en de native apps (for Android en ioS) ontwikkelt.
 
 De kickoff is maandag 23 mei om 14:00 uur te Voorhoede kantoor Amsterdam.
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
